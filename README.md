@@ -5,9 +5,9 @@
 It is a simple project to get an understanding of turning your machine learning models into a REST API
 
 ### Project Layout
-* Data - Contains the Training and Test Data
-* titanic_ml.py - Code to build the model
-* MLWebAPI.py - Code to build the API for the model built in the above code
+* [Data](https://github.com/nihal223/Simple-ML-Web-Service/tree/master/Data) - Contains the Training and Test Data
+* [titanic_ml.py](https://github.com/nihal223/Simple-ML-Web-Service/blob/master/titanic_ml.py) - Code to build the model
+* [MLWebAPI.py](https://github.com/nihal223/Simple-ML-Web-Service/blob/master/MLWebAPI.py) - Code to build the API for the model built in the above code
 
 ### Description:
 The Model is constructed using data from the titanic dataset which basically has data about if a person survived or
